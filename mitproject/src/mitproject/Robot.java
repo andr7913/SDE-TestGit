@@ -9,7 +9,7 @@ package mitproject;
  *
  * @author andre
  */
-public class robot
+public class Robot
 {
     
 }

@@ -17,7 +17,7 @@ public class Mitproject
      */
     public static void main(String[] args)
     {
-        robot r= new robot();
+        Robot r= new Robot();
         System.out.println("robot:" + r);
         // TODO code application logic here
     }
