@@ -21,12 +21,6 @@ public class Mitproject
         Robot r= new Robot();
         System.out.println("robot:" + r);
 
-        robot r= new robot();
-        //System.out.println();
-
-        robot r= new robot();
-        //System.out.println();
-
     }
     
 }
