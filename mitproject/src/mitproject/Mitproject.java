@@ -17,6 +17,8 @@ public class Mitproject
      */
     public static void main(String[] args)
     {
+        robot r= new robot();
+        //System.out.println();
         // TODO code application logic here
     }
     
