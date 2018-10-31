@@ -17,8 +17,13 @@ public class Mitproject
      */
     public static void main(String[] args)
     {
+<<<<<<< HEAD
         Robot r= new Robot();
         System.out.println("robot:" + r);
+=======
+        robot r= new robot();
+        //System.out.println();
+>>>>>>> parent of 69a46bd... lavet sout
         // TODO code application logic here
     }
     
